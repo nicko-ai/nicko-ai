@@ -9,9 +9,8 @@
 
 <table>
 <tr>
-<td align="center" valign="top" width="226"><a href="https://github.com/VRSEN/agency-swarm/graphs/contributors"><h2>#1</h2></a>Agency Swarm contributor, 1,600+ commits</td>
-<td align="center" valign="top" width="226"><a href="https://nicko.ai"><h2>25,861</h2></a>agent sessions on my own machine since January 2026</td>
-<td align="center" valign="top" width="226"><h2>30+</h2>enterprise agent deployments</td>
+<td align="center" valign="top" width="360"><a href="https://github.com/VRSEN/agency-swarm/graphs/contributors"><h2>#1</h2></a>Agency Swarm contributor, 1,600+ commits</td>
+<td align="center" valign="top" width="360"><h2>30+</h2>enterprise agent deployments</td>
 </tr>
 </table>
 
