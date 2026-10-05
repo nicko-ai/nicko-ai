@@ -8,13 +8,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCcgZmlsbD0nd2hpdGUnPjxwYXRoIGQ9J000Ljk4IDMuNWEyLjUgMi41IDAgMSAxIDAgNSAyLjUgMi41IDAgMCAxIDAtNXpNMyA5aDR2MTJIM3pNOSA5aDMuOHYxLjdoLjA1Yy41My0xIDEuODMtMi4wNSAzLjc3LTIuMDUgNC4wMyAwIDQuNzggMi42NSA0Ljc4IDYuMVYyMWgtNHYtNS42YzAtMS4zNC0uMDMtMy4wNi0xLjg2LTMuMDYtMS44NyAwLTIuMTUgMS40Ni0yLjE1IDIuOTZWMjFIOXonLz48L3N2Zz4%3D)](https://www.linkedin.com/in/nicko-ai)
 
 <table>
-<tr>
-<td align="center" valign="top" width="360"><a href="https://github.com/VRSEN/agency-swarm/graphs/contributors"><h2>#1</h2></a>Agency Swarm contributor, 1,600+ commits</td>
-<td align="center" valign="top" width="360"><h2>30+</h2>enterprise agent deployments</td>
-</tr>
-</table>
-
-<table>
 <tr><td width="730" align="left">
 <a href="https://github.com/VRSEN/agency-swarm"><b>Agency Swarm</b></a>&nbsp; <img src="https://img.shields.io/github/stars/VRSEN/agency-swarm?style=flat-square&logo=github&label=stars&labelColor=24292f&color=0b7a3e" alt="Agency Swarm stars" align="top"><br>
 Multi-agent orchestration framework on the OpenAI Agents SDK. I am the lead maintainer: 262 merged pull requests, 30 stable releases. I also built its terminal UI, AgentSwarm CLI, a TypeScript fork of OpenCode that OpenSwarm runs on.
